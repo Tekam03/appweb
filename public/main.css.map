@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/tekam/Code/appweb2/Formatif_temp_appweb2/formatif",
+	"sourceRoot": "/home/tekam/Code/appweb2/appweb",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
