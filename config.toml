@@ -1,0 +1,22 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'College Maisonneuve'
+theme = "hello-friend-ng"
+
+
+[params]
+
+  # Subtitle for home
+  homeSubtitle = "Fait par Francis M-G"
+
+[languages]
+  [languages.en]
+    title = "College Maisonneuve"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "College Maisonneuve"
+      logoHomeLink = "/"
+
